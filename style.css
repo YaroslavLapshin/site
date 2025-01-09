@@ -1,0 +1,21 @@
+body, html {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  font-family: Arial, sans-serif;
+  overflow: hidden;
+}
+
+.content {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+  text-align: center;
+  color: rgb(71, 69, 69);
+  text-shadow: 0 2px 5px rgba(0, 0, 0, 0.7);
+}
+
+h1 {
+  font-size: 3rem;
+}
